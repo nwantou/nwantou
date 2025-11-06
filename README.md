@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,azure,postgresql,mysql,mongodb,git,dbt,Airflow,Pyspark,Mlops,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,azure,postgresql,mysql,mongodb,git,github,linux,docker,html,css,figma,vscode" />
   </a>
 </p>
 
