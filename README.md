@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2AF1D1&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Joy+Patricia+Nwantou;+Data+Scientist+%7C+Fullstack+Developer;" />
 </h1>
 
-<h3 align="center">Data analyst | UCAC-ICAM Douala 🎓 | AI & Cloud Enthusiast | Datathon Participant</h3>
+<h3 align="center">Data analyst | AI & Cloud Enthusiast | Datathon Participant</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/joy-nwantou/count.svg">
@@ -17,17 +17,14 @@
 <h3 align="center">🌐 Connect with me:</h3>
 
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/joy-patricia-nwantou/" target="_blank">
+  <a href="https://www.linkedin.com/in/nwantou-tchouameni-joy-patricia-67846b280/" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png" width="52" height="52" alt="LinkedIn" />
   </a>
-  <a href="mailto:joynwantou@gmail.com" target="_blank">
+  <a href="mailto:nwantoujoy@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png" width="52" height="52" alt="Gmail" />
   </a>
-  <a href="https://medium.com/@joynwantou" target="_blank">
+  <a href="https://medium.com/@nwantoutchouameni" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/3670/3670040.png" width="52" height="52" alt="Medium" />
-  </a>
-  <a href="https://wa.me/237674812249" target="_blank">
-    <img src="https://cdn-icons-png.freepik.com/256/3670/3670051.png" width="52" height="52" alt="WhatsApp" />
   </a>
 </div>
 
@@ -57,8 +54,8 @@
 - 🧠 Passionate about **Artificial Intelligence**, **Data Engineering**, and **Cloud Computing (Azure)**
 - 🩺 Working on **AI Solutions for Hospitals** (Datathon 2025 – Patient Feedback System)
 - 🚀 Building **SaaS** & **backend** products with **FastAPI**, **React**, and **Node.js**
-- ✍️ Writing about **Data & AI projects** on [Medium](https://medium.com/@joynwantou)
-- 📫 Reach me: **joynwantou@gmail.com**
+- ✍️ Writing about **Data & AI projects** on [Medium](https://medium.com/@nwantoutchouameni)
+- 📫 Reach me: **nwantoujoy@gmail.com**
 - ⚡ Fun fact: I love turning African tech challenges into smart digital products 💡
 
 ---
@@ -108,7 +105,7 @@
 
 <div align="center">
    <p>Want to collaborate or discuss a data project? ⟶ 
-      <a href="mailto:joynwantou@gmail.com">Contact Me</a><br> 
+      <a href="mailto:nwantoujoy@gmail.com">Contact Me</a><br> 
       <b>Show some ❤️ by starring my repositories!</b>
    </p>
 </div>
