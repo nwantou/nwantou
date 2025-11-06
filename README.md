@@ -1,8 +1,8 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2AF1D1&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Joy+Patricia+Nwantou;+Data+Scientist+%7C+Fullstack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2AF1D1&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Joy+Patricia+Nwantou;+Data+Scientist+%7C+Fullstack+Developer;" />
 </h1>
 
-<h3 align="center">Data Science & Analysis Student | UCAC-ICAM Douala 🎓 | AI & Cloud Enthusiast | Datathon Participant </h3>
+<h3 align="center">Data Science & Big Data Student | UCAC-ICAM Douala 🎓 | AI & Cloud Enthusiast | SaaS Builder | Datathon Participant</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/joy-nwantou/count.svg">
@@ -26,7 +26,7 @@
   <a href="https://medium.com/@joynwantou" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/3670/3670040.png" width="52" height="52" alt="Medium" />
   </a>
-  <a href="https://wa.me/237xxxxxxxxx" target="_blank">
+  <a href="https://wa.me/237674812249" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/3670/3670051.png" width="52" height="52" alt="WhatsApp" />
   </a>
 </div>
@@ -35,11 +35,11 @@
 
 <h3 align="center">🎖️ Certification Badges:</h3>
 <div align="center" style="display:flex; align-items:center; gap:10px;">
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Microsoft%20Azure%20Data%20Fundamentals.png" width="100px" height="105px" alt="Azure Badge"/>
+  <a href="https://www.credly.com/badges/00b8a4a5-b4c0-4e59-a6da-azure-data-fundamentals/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/70a5e728-3a22-4d6d-8b07-67a23f9e1d87/Microsoft-Azure-Data-Fundamentals-600x600.png" width="100px" height="105px" alt="Azure Badge"/>
   </a>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Python%20for%20Data%20Science.png" width="100px" height="105px" alt="Python Badge"/>
+  <a href="https://www.credly.com/badges/20b8a4f4-2b5e-4d12-8b10-python-for-data-science/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2414889d-b6b5-4fc3-8c64-8b9d23cf50da/image.png" width="100px" height="105px" alt="Python Badge"/>
   </a>
 </div>
 
@@ -53,12 +53,13 @@
 ---
 
 ### 💬 About Me
-- 🎓 Currently pursuing a **Data Science & Big Data Engineering** degree at **UCAC-ICAM (Douala, Cameroon)**
-- 🧠 Passionate about **AI**, **Cloud Computing**, and **Data Engineering**
-- 🩺 Working on an AI-based **Patient Feedback System** for Douala General Hospital
-- 🚀 Building SaaS & backend projects with **FastAPI**, **React**, and **Azure**
-- ✍️ Writing about **Data, AI & Tech** on [Medium](https://medium.com/@joynwantou)
-- 📫 Reach me at **joynwantou@gmail.com**
+- 🎓 Data Science & Big Data Engineering student at **UCAC-ICAM Douala, Cameroon**
+- 🧠 Passionate about **Artificial Intelligence**, **Data Engineering**, and **Cloud Computing (Azure)**
+- 🩺 Working on **AI Solutions for Hospitals** (Datathon 2025 – Patient Feedback System)
+- 🚀 Building **SaaS** & **backend** products with **FastAPI**, **React**, and **Node.js**
+- ✍️ Writing about **Data & AI projects** on [Medium](https://medium.com/@joynwantou)
+- 📫 Reach me: **joynwantou@gmail.com**
+- ⚡ Fun fact: I love turning African tech challenges into smart digital products 💡
 
 ---
 
@@ -66,7 +67,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,azure,postgresql,mysql,mongodb,git,github,linux,docker,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,azure,postgresql,mysql,mongodb,git,github,linux,docker,html,css,figma,vscode" />
   </a>
 </p>
 
@@ -99,28 +100,6 @@
 
 ---
 
-<details>
-  <summary><b>🎵 Spotify</b></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://open.spotify.com/user/" target="_blank">
-            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=&cover_image=true&theme=default&show_offline=false&background_color=121212" width="240" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://open.spotify.com/user/" target="_blank">
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=" width="400" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/joy-nwantou/joy-nwantou/output/snake.svg" alt="Snake animation" />
 </p>
@@ -128,7 +107,7 @@
 ---
 
 <div align="center">
-   <p>Interested in collaborating or hiring me for Data & AI projects? ⟶ 
+   <p>Want to collaborate or discuss a data project? ⟶ 
       <a href="mailto:joynwantou@gmail.com">Contact Me</a><br> 
       <b>Show some ❤️ by starring my repositories!</b>
    </p>
