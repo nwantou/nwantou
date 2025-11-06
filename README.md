@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2AF1D1&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Joy+Patricia+Nwantou;+Data+Scientist+%7C+Fullstack+Developer;" />
 </h1>
 
-<h3 align="center">Data Science & Big Data Student | UCAC-ICAM Douala 🎓 | AI & Cloud Enthusiast | SaaS Builder | Datathon Finalist</h3>
+<h3 align="center">Data Science & Analysis Student | UCAC-ICAM Douala 🎓 | AI & Cloud Enthusiast | Datathon Participant </h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/joy-nwantou/count.svg">
