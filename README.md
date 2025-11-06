@@ -43,8 +43,8 @@
 ---
 
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=joy-nwantou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/joy-nwantou" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=nwantou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/nwantou" alt="GitHub Stars" />
 </div>
 
 ---
