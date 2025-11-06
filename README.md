@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,azure,postgresql,mysql,mongodb,git,github,linux,docker,html,css,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,azure,postgresql,mysql,mongodb,git,dbt,Airflow,Pyspark,Mlops,figma,vscode" />
   </a>
 </p>
 
@@ -73,27 +73,28 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joy-nwantou&theme=github_dark" alt="Profile Details">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nwantou&theme=github_dark" alt="Profile Details">
 </div>
 
 <div align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joy-nwantou&theme=github_dark" alt="Top Languages">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joy-nwantou&theme=github_dark" alt="Most Commit Language">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nwantou&theme=github_dark" alt="Top Languages">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nwantou&theme=github_dark" alt="Most Commit Language">
 </div>
 
 <div align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joy-nwantou&theme=github_dark" alt="GitHub Stats">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joy-nwantou&theme=github_dark&utcOffset=1" alt="Productive Time">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nwantou&theme=github_dark" alt="GitHub Stats">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nwantou&theme=github_dark&utcOffset=1" alt="Productive Time">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
    <a target="blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joy-nwantou&theme=tokyonight" alt="Streak Stats" height="300" width="400" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwantou&theme=tokyonight" alt="Streak Stats" height="300" width="400" />
    </a>
    <a target="blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-nwantou&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="300" width="285" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwantou&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="300" width="285" />
    </a>
 </div>
+
 
 ---
 
