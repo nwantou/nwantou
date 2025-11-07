@@ -1,8 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hi+there!+👋;+I'm+Joy+Nwantou!;+Data+Engineer+|+Data+Dev+|+Cloud+Enthusiast;" />
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2AF1D1&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Joy+Patricia+Nwantou;+Data+Scientist+%7C+AI+Developer;" />
 </h1>
 
-<h3 align="center">Senior Data Developer | 10+ Years in Data Engineering & Analytics | Azure & Python Expert | Cloud Architect</h3>
+
+<h3 align="center">🎓 5th-year Computer Engineering Student (UCAC-ICAM, Douala) | 💡 Data & Software Engineer  | 📊 Building intelligent systems</h3>
 
 ---
 
@@ -16,37 +17,46 @@
 
 ---
 
-### 💡 About Me
+### 👩🏽‍💻 About Me  
 
-- 👨‍💻 Passionate about **data pipelines, APIs, and analytics architectures**  
-- ☁️ Experienced with **Azure Data Factory**, **Databricks**, **Fabric**, **Power BI**, and **Dockerized ETL systems**  
-- 💾 Skilled in **Python, SQL, FastAPI, Airflow, and CI/CD for DataOps**  
-- 🧠 Mentor and trainer in **Data Engineering & Modern BI**  
-- 🌍 Open to **remote collaboration, mentoring, and innovation projects**
+- 🎓 **Data Science & Big Data** specialization at [UCAC-ICAM Douala](https://icam-icac.com)  
+- 💻 Experienced with **MERN stack (MongoDB, Express, React, Node.js)**  
+- ☁️ Building **ETL pipelines, APIs, and dashboards** with **Python & Azure Data Tools**  
+- 🧠 Participated in the **“Code2Care: Co-creating AI Solutions for Douala General Hospital” Datathon**
+- 🚀 Currently seeking a **Data / Cloud Engineering apprenticeship or internship** in France (2026)  
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,azure,docker,fastapi,flask,airflow,pandas,postgres,mysql,git,github,linux,vscode,html,css,js,react,ts,tailwind,figma,powershell,windows,bash" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,react,mongodb,azure,docker,git,github,js,tailwind,fastapi,pandas,postgres,mysql,figma,vscode,notion" />
   </a>
 </p>
 
 ---
 
-### 🧠 Certifications
+### 🌟 Featured Projects  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer-blue?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20Professional-green?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws" />
-</div>
+| 🔧 Project | 📝 Description | 🚀 Tech |
+|-------------|----------------|---------|
+| [**Patient Feedback System**](#) | AI-powered feedback & reminder app for hospitals (Datathon Project) | FastAPI · Azure · MongoDB |
+| [**Data Portfolio Dashboard**](#) | Interactive BI dashboard for data analysis and reporting | Power BI · Python · SQL |
+| [**Fullstack Task Manager**](#) | MERN app for task tracking with JWT authentication | MongoDB · Express · React · Node |
 
 ---
 
-### 📈 GitHub Analytics
+### 🎯 Goals 2025–2026  
+
+- 🏆 Complete **Microsoft Fabrics Data Engineer (DP-207)** certification  
+- 🚀 Publish a **Data x MERN Portfolio** with live apps & APIs  
+- 💬 Collaborate on **open-source cloud/data projects**  
+- 🎓 Graduate as **Data Engineer / Software Developer** in 2026  
+
+---
+
+### 📊 GitHub Analytics  
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nwantou&theme=github_dark" alt="Profile Details">
@@ -54,31 +64,27 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nwantou&theme=github_dark" alt="Top Languages">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nwantou&theme=github_dark" alt="Most Commit Language">
-</div>
-
-<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nwantou&theme=github_dark" alt="GitHub Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nwantou&theme=github_dark&utcOffset=1" alt="Productive Time">
 </div>
 
 ---
 
-### 🐍 Snake Contribution Graph
+### 🐍 Contribution Graph  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nwantou/nwantou/output/snake.svg" alt="Snake animation" />
 </p>
 
+
 ---
 
-### 🤝 Connect with Me
+### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nwantou" target="_blank">
+  <a href="https://www.linkedin.com/in/nwantou-tchouameni-joy-patricia-67846b280/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" alt="LinkedIn"/>
   </a>
-  <a href="mailto:joy.nwantou@gmail.com" target="_blank">
+  <a href="mailto:nwantoujoy@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45" alt="Gmail"/>
   </a>
   <a href="https://x.com/nwantou" target="_blank">
@@ -88,9 +94,9 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact  
 
-> “Data is like water — when structured well, it powers cities. When left unchecked, it floods systems.”
+> “Data without context is just noise — code gives it meaning.”
 
 ---
 
