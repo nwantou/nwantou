@@ -3,13 +3,10 @@
 </h1>
 
 
-<h3 align="center">🎓 5th-year Computer Engineering Student (UCAC-ICAM, Douala) | 💡 Data & Software Engineer  | 📊 Building intelligent systems</h3>
+<h3 align="center">🎓 5th-year Computer Engineering Student (UCAC-ICAM, Douala) |  Data & Software Engineer  |  Building intelligent systems</h3>
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/nwantou/count.svg" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px">
@@ -41,9 +38,12 @@
 
 | 🔧 Project | 📝 Description | 🚀 Tech |
 |-------------|----------------|---------|
-| [**Patient Feedback System**](#) | AI-powered feedback & reminder app for hospitals (Datathon Project) | FastAPI · Azure · MongoDB |
-| [**Data Portfolio Dashboard**](#) | Interactive BI dashboard for data analysis and reporting | Power BI · Python · SQL |
-| [**Fullstack Task Manager**](#) | MERN app for task tracking with JWT authentication | MongoDB · Express · React · Node |
+| **Language-management-system** | SaaS Learning Management System with user auth, subscription & Stripe payment | Next.js · Supabase · Stripe · TypeScript |
+| **Churn-analysis** | Customer churn analysis for a fictive gas company using ML models | Python · Pandas · Jupyter Notebook |
+| **Drive** | Cloud file storage and sharing platform with upload, visualization & download | Next.js · TypeScript · Supabase |
+| **Plant_disease_detection** | Mobile app for detecting and suggesting treatments for plant leaf diseases | Flutter · TensorFlow · Dart |
+| **Weather-dashboard** | Power BI weather dashboard with city-wise data visualization | Power BI · REST API · DataViz |
+| **Patient-Feedback-LLM-Forecasting-DHG** | Intelligent hospital feedback and reminder system (Datathon Track 1) | Python · LLMs · FastAPI · Azure |
 
 ---
 
