@@ -99,7 +99,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joy-nwantou/joy-nwantou/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/nwantou/nwantou/blob/main/output/snake.yml" alt="Snake animation" />
 </p>
 
 ---
