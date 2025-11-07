@@ -72,8 +72,9 @@
 ### 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nwantou/nwantou/output/snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="760" />
 </p>
+
 
 
 ---
