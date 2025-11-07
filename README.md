@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">🎓 5th-year Computer Engineering Student (UCAC-ICAM, Douala) |  Data & Software Engineer  |  Building intelligent systems</h3>
+<h3 align="center">🎓 Data analyst |  Data & Software Engineer  |  Building intelligent systems</h3>
 
 ---
 
